@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanyaGhosh
-- 👀 I’m interested in Phyton
-- 🌱 I’m currently learning Advance Powerbi
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data visualisation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tanya.ghosh05@gmail.com
 
